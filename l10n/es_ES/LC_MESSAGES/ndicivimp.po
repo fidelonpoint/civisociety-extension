@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2014-10-10 21:11+0000\n"
+"Last-Translator: root <cdoten@ndi.org>\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ndiciviparty.php
+msgid "NDI CiviCRM County-State Permissions"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "view all contacts who live in your county"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "edit all contacts who live in your county"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "delete all contacts who live in your county"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "view all contacts who live in your state"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "edit all contacts who live in your state"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "delete all contacts who live in your state"
+msgstr ""
+
+#: templates/CRM/Ndiciviparty/Page/ContactPerMonth.tpl
+msgid "New Contacts by Month"
+msgstr "Nuevos Contactos por Mes"
+
+#: ndiciviparty.php
+msgid "Contacts"
+msgstr "Contactos"
+
+#: ndiciviparty.php
+msgid "Create New Individual"
+msgstr "Crear Nuevo Individual"
+
+#: ndiciviparty.php
+msgid "Browse Contacts"
+msgstr "Navegar Contactos"
+
+#: ndiciviparty.php
+msgid "Manage Groups"
+msgstr "Gestionar Grupos"
+
+#: ndiciviparty.php
+msgid "View All Reports"
+msgstr "Ver todos los Reportes"
+
+#: ndiciviparty.php
+msgid "Send Mailing"
+msgstr "Enviar Correos"
+
+#: ndiciviparty.php
+msgid "Events"
+msgstr "Eventos"
+
+#: ndiciviparty.php
+msgid "Organize Event"
+msgstr "Organizar Evento"
+
+#: ndiciviparty.php
+msgid "All Events"
+msgstr "Todos los Eventos"
+
+#: ndiciviparty.php
+msgid "Search Participants"
+msgstr "Buscar Participantes"
+
+#: ndiciviparty.php
+msgid "Register Participant"
+msgstr "Registrar Participantes"
+
+#: ndiciviparty.php
+msgid "Schedule Reminder"
+msgstr "Recordatorio de Horario"
+
+#: ndiciviparty.php
+msgid "Recently Added"
+msgstr "Agregados Recientemente"

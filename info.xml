@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="org.ndi.ndiciviparty" type="module">
+  <file>ndiciviparty</file>
+  <name>DemTools CiviParty Package</name>
+  <description>A CiviCRM extension that creates an improved dashboard, and vastly simplifies CiviCRM.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Chris Doten</author>
+    <email>cdoten@ndi.org</email>
+  </maintainer>
+  <releaseDate>2014-09-30</releaseDate>
+  <version>1.0</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>4.5</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/Ndiciviparty</namespace>
+  </civix>
+</extension>

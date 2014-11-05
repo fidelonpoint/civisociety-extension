@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2014-10-13 17:32+0000\n"
+"Last-Translator: root <cdoten@ndi.org>\n"
+"Language-Team: Arabic\n"
+"Language: ar_EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ndiciviparty.php
+msgid "NDI CiviCRM County-State Permissions"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "view all contacts who live in your county"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "edit all contacts who live in your county"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "delete all contacts who live in your county"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "view all contacts who live in your state"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "edit all contacts who live in your state"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "delete all contacts who live in your state"
+msgstr ""
+
+#: templates/CRM/Ndiciviparty/Page/ContactPerMonth.tpl
+msgid "New Contacts by Month"
+msgstr "عرض جميع التقارير"
+
+#: ndiciviparty.php
+msgid "Contacts"
+msgstr "المناسبات"
+
+#: ndiciviparty.php
+msgid "Create New Individual"
+msgstr "إحياء مناسبة"
+
+#: ndiciviparty.php
+msgid "Browse Contacts"
+msgstr "جميع المناسبات"
+
+#: ndiciviparty.php
+msgid "Manage Groups"
+msgstr "البحث عن مشاركين"
+
+#: ndiciviparty.php
+msgid "View All Reports"
+msgstr "تسجيل مشارك"
+
+#: ndiciviparty.php
+msgid "Send Mailing"
+msgstr "تحديد موعد إرسال تنبيه"
+
+#: ndiciviparty.php
+msgid "Events"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "Organize Event"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "All Events"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "Search Participants"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "Register Participant"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "Schedule Reminder"
+msgstr ""
+
+#: ndiciviparty.php
+msgid "Recently Added"
+msgstr "إرسال البريد"
