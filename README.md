@@ -1,8 +1,9 @@
-# civisociety-extension
-CiviCRM extension for NDI partners
+# CiviSociety
+###CiviCRM extension for NDI
 
-This is prebuilt extension for NDI customizations of CiviCRM. The full user and administrator documentation can be found at https://nditech.org/demtools/civiparty
+This is a prebuilt extension with NDI customizations and modules for CiviCRM. The full user and administrator documentation can be found at https://nditech.org/demtools/civiparty
 
+###Installation Instructions
 
 To install the CiviParty DemTool, you'll need a Linux server, comfort working with LAMP web stacks, some systems administration experience, and time to play around. This tool is built upon Drupal and CiviCRM systems.
 
@@ -18,11 +19,13 @@ Fill out the "CiviCRM Extensions Directory" setting with the directory you just 
 Administer -> System Settings -> Resource URLs
 Fill out the "Extension Resource URL" with the directory you just created in the folloing form:
 http://yoursite.com/extensionsdirectory (eg: http://www.example.com/sites/default/files/civicrm/extensions)
+
 Next, clone the extensions from the NDI Github repository straight into the extensions directory:
 cd sites/default/files/civicrm/extensions
 git clone https://github.com/nditech/org.ndi.civiparty-dashboard.git
 git clone https://github.com/nditech/org.ndi.civi-local-permissions.git
 git clone https://github.com/nditech/org.ndi.civiparty-config.git
 git clone https://github.com/nditech/org.ndi.civi-simplifier.git
+
 Then, enable the extensions within CiviCRM.
 Administer -> System Settings -> Manage Extensions
