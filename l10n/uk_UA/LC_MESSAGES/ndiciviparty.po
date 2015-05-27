@@ -1,11 +1,12 @@
 # 
 # Translators:
 # Evan Summers <esummers@ndi.org>, 2015
+# Sergiy <shemet.s@ua.fm>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: CiviParty DemTool\n"
-"PO-Revision-Date: 2015-04-14 21:35+0000\n"
-"Last-Translator: Evan Summers <esummers@ndi.org>\n"
+"PO-Revision-Date: 2015-05-25 06:04+0000\n"
+"Last-Translator: Sergiy <shemet.s@ua.fm>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/civiparty-demtool/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,35 +16,35 @@ msgstr ""
 
 #: ndiciviparty.php
 msgid "NDI CiviCRM County-State Permissions"
-msgstr "NDI CiviCRM райо́н-область Дозволи"
+msgstr "Дозволи \"район-область\" системи CiviCRM НДІ"
 
 #: ndiciviparty.php
 msgid "view all contacts who live in your county"
-msgstr "Переглянути всі контакти, які живуть у вашому райо́н"
+msgstr "Переглянути всі контакти, які живуть у вашому районі"
 
 #: ndiciviparty.php
 msgid "edit all contacts who live in your county"
-msgstr "Редагувати всі контакти, які живуть у вашому райо́н"
+msgstr "Редагувати всі контакти, які живуть у вашому районі"
 
 #: ndiciviparty.php
 msgid "delete all contacts who live in your county"
-msgstr "Видалити всі контакти, які живуть у вашому райо́н"
+msgstr "Видалити всі контакти, які живуть у вашому районі"
 
 #: ndiciviparty.php
 msgid "view all contacts who live in your state"
-msgstr "Переглянути всі контакти, які живуть у вашому область"
+msgstr "Переглянути всі контакти, які живуть у вашій області"
 
 #: ndiciviparty.php
 msgid "edit all contacts who live in your state"
-msgstr "Редагувати всі контакти, які живуть у вашому область"
+msgstr "Редагувати всі контакти, які живуть у вашій області"
 
 #: ndiciviparty.php
 msgid "delete all contacts who live in your state"
-msgstr "Видалити всі контакти, які живуть у вашому область"
+msgstr "Видалити всі контакти, які живуть у вашій області"
 
 #: templates/CRM/Ndiciviparty/Page/ContactPerMonth.tpl
 msgid "New Contacts by Month"
-msgstr "Нові контакти на місяць"
+msgstr "Нові контакти за місяць"
 
 #: ndiciviparty.php
 msgid "Contacts"
@@ -51,23 +52,23 @@ msgstr "Контакти"
 
 #: ndiciviparty.php
 msgid "Create New Individual"
-msgstr "Створити Новий громадянин"
+msgstr "Нова фізична особа"
 
 #: ndiciviparty.php
 msgid "Browse Contacts"
-msgstr "Погляньте на контакти"
+msgstr "Переглянути усі контакти"
 
 #: ndiciviparty.php
 msgid "Manage Groups"
-msgstr "Управління групами"
+msgstr "Керування групами"
 
 #: ndiciviparty.php
 msgid "View All Reports"
-msgstr "Всі звіти"
+msgstr "Усі звіти"
 
 #: ndiciviparty.php
 msgid "Send Mailing"
-msgstr "Новий список поштової розсилки"
+msgstr "Створити нову поштову розсилку"
 
 #: ndiciviparty.php
 msgid "Events"
@@ -79,7 +80,7 @@ msgstr "Нова подія"
 
 #: ndiciviparty.php
 msgid "All Events"
-msgstr "всі події"
+msgstr "Усі події"
 
 #: ndiciviparty.php
 msgid "Search Participants"
@@ -87,12 +88,12 @@ msgstr "Знайти учасників"
 
 #: ndiciviparty.php
 msgid "Register Participant"
-msgstr "Зареєструвати учасника події"
+msgstr "Зареєструвати учасника"
 
 #: ndiciviparty.php
 msgid "Schedule Reminder"
-msgstr "планувати нагадування"
+msgstr "Запланувати нагадування"
 
 #: ndiciviparty.php
 msgid "Recently Added"
-msgstr "нещодавно Доданий"
+msgstr "Додані нещодавно"
