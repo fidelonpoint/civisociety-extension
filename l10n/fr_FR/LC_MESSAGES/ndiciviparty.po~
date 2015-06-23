@@ -1,49 +1,46 @@
-# 
-# Translators:
-# NDItech, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: CiviParty DemTool\n"
-"PO-Revision-Date: 2015-06-23 14:55+0000\n"
-"Last-Translator: NDItech\n"
-"Language-Team: French (http://www.transifex.com/projects/p/civiparty-demtool/language/fr/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2014-10-16 21:43+0000\n"
+"Last-Translator: root <cdoten@ndi.org>\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: ndiciviparty.php
 msgid "NDI CiviCRM County-State Permissions"
-msgstr "CiviCRM de NDI Permissions de Comté-Etat"
+msgstr ""
 
 #: ndiciviparty.php
 msgid "view all contacts who live in your county"
-msgstr "voir tous les contacts qui habitent dans le meme comté que vous"
+msgstr ""
 
 #: ndiciviparty.php
 msgid "edit all contacts who live in your county"
-msgstr "modifier tous les contacts qui havitent dans le meme comté que vous"
+msgstr ""
 
 #: ndiciviparty.php
 msgid "delete all contacts who live in your county"
-msgstr "effacer tous les contacts qui habitent dans le meme comté que vous"
+msgstr ""
 
 #: ndiciviparty.php
 msgid "view all contacts who live in your state"
-msgstr "voir tous les contacts qui habitent dans le meme état que vous"
+msgstr ""
 
 #: ndiciviparty.php
 msgid "edit all contacts who live in your state"
-msgstr "modifier tous les contacts qui havitent dans le meme état que vous"
+msgstr ""
 
 #: ndiciviparty.php
 msgid "delete all contacts who live in your state"
-msgstr "effacer tous les contacts qui habitent dans le meme état que vous"
+msgstr ""
 
 #: templates/CRM/Ndiciviparty/Page/ContactPerMonth.tpl
 msgid "New Contacts by Month"
-msgstr "Nouveaux contacts par mois"
+msgstr "Nouveau Contacts par Mois"
 
 #: ndiciviparty.php
 msgid "Contacts"
@@ -51,23 +48,23 @@ msgstr "Contacts"
 
 #: ndiciviparty.php
 msgid "Create New Individual"
-msgstr "Créer un nouvel individu"
+msgstr "Créer un Nouvel Individu"
 
 #: ndiciviparty.php
 msgid "Browse Contacts"
-msgstr "Parcourir les contacts"
+msgstr "Parcourir les Contacts"
 
 #: ndiciviparty.php
 msgid "Manage Groups"
-msgstr "Gérer les groupes"
+msgstr "Gerer un Groupe"
 
 #: ndiciviparty.php
 msgid "View All Reports"
-msgstr "Voir tous les rapports"
+msgstr "Voir tout les Rapports"
 
 #: ndiciviparty.php
 msgid "Send Mailing"
-msgstr "Envoi postal"
+msgstr "Envoyer un Courrier"
 
 #: ndiciviparty.php
 msgid "Events"
@@ -75,24 +72,24 @@ msgstr "Evénements"
 
 #: ndiciviparty.php
 msgid "Organize Event"
-msgstr "Organiser un événement"
+msgstr "Organiser un Evénement"
 
 #: ndiciviparty.php
 msgid "All Events"
-msgstr "Tous les événements"
+msgstr "Tout les Evénements"
 
 #: ndiciviparty.php
 msgid "Search Participants"
-msgstr "Rechercher des participants"
+msgstr "Chercher des Participants"
 
 #: ndiciviparty.php
 msgid "Register Participant"
-msgstr "Enregister un participant"
+msgstr "Enregistrer des Participants"
 
 #: ndiciviparty.php
 msgid "Schedule Reminder"
-msgstr "Calendrier de rappel"
+msgstr "Planifier un Rappel"
 
 #: ndiciviparty.php
 msgid "Recently Added"
-msgstr "Ajouté récemment"
+msgstr "Récemment Ajouté"
