@@ -210,7 +210,7 @@ ndiciviparty_add_default_dashboard($contactID);
                   ",
                   '<h2>'.ts("Events",array('domain' => 'org.ndi.ndiciviparty')).'</h2>' =>
                     "<p>
-                    <a href='".$newIndLink."'><button type=\"button\" class=\"btn btn-success\">".ts('Organize Event',array('domain' => 'org.ndi.ndiciviparty'))."</button></a>
+                    <a href='".$newEvent."'><button type=\"button\" class=\"btn btn-success\">".ts('Organize Event',array('domain' => 'org.ndi.ndiciviparty'))."</button></a>
                     <a href='".$manageEvents."'><button type=\"button\" class=\"btn btn-success\">".ts('All Events',array('domain' => 'org.ndi.ndiciviparty'))."</button></a>
                    <a href='".$searchParticipants."'><button type=\"button\" class=\"btn btn-success\">".ts('Search Participants',array('domain' => 'org.ndi.ndiciviparty'))."</button></a>
                     <a href='".$registerParticipant."'><button type=\"button\" class=\"btn btn-success\">".ts('Register Participant',array('domain' => 'org.ndi.ndiciviparty'))."</button></a>
