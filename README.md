@@ -93,13 +93,13 @@ To install the CiviParty DemTool, you'll need a Linux server, comfort working wi
 
 18. Fill in the CiviCRM Database Settings. Fill in the Drupal Database Settings for your existing Drupal database. Select the appropriate language for the base installation. You will be able to add other languages after the installation for multilingual sites. 
 
-Back in terminal, change what? to the parent’s parent directory.
+19. Back in terminal, change what? to the parent’s parent directory.
 
     ls -lah /var/www/html/civiukraine/sites/default/
 
     cd ../ ../
 
-18. Allow everyone to read and execute the file, and make sure the file owner is allowed to write to the file as well.
+20. Allow everyone to read and execute the file, and make sure the file owner is allowed to write to the file as well.
  
  		chmod -Rv 755 /var/www/html/civiukraine/sites/default/files/
 
